@@ -1,0 +1,10 @@
+goalie,opp,loc,hand,type,dist,x,y,per,crunch,strength,misc
+"Yani Perets, QU",LIU (10/9/22),7,R,wrst,HDZ,42.5,13,sec,yes,full,none
+"Yani Perets, QU",LIU (10/9/22),1,R,wrst,MDZ,28,25,third,yes,full,none
+"Yani Perets, QU",North Dakota (10/14/22),9,R,snap,HDZ,38,7,sec,no,full,onet
+"Yani Perets, QU",North Dakota (10/14/22),7,R,snap,HDZ,42.5,6.5,sec,yes,full,onet
+"Yani Perets, QU",North Dakota (10/14/22),4,R,wrst,HDZ,46,5.5,third,no,kill,none
+"Yani Perets, QU",North Dakota (10/14/22),9,L,wrst,MDZ,40,24,third,no,doubkill,none
+"Yani Perets, QU",North Dakota (10/14/22),6,L,wrst,MDZ,58,25,third,no,kill,none
+"Yani Perets, QU",North Dakota (10/15/22),7,R,back,HDZ,36.5,1,first,no,full,none
+"Yani Perets, QU",North Dakota (10/15/22),4,R,snap,LDZ,30,40,first,yes,kill,onet
